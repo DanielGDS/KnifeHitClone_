@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c82e0a1833a161e4b8f1dc4f62a8520e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Etelka Light Pro
+  fontNames:
+  - Etelka Light Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 216b502c8ef8eb940b2c2bce543e75f6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

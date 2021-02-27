@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UIElement_SpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: be04d3372abfec94dabc829dee927a57, type: 3}
+    - {fileID: 2800000, guid: c63797365beabba498d0000186455da9, type: 3}
+    - {fileID: 2800000, guid: a71fa90a922d3b648966998554372020, type: 3}
+    - {fileID: 2800000, guid: b27e71a6aaff2ab46a0ae89bc4cf9063, type: 3}
+    - {fileID: 2800000, guid: 218d6f0152b2683468fa5aa2ddc1516f, type: 3}
+    - {fileID: 2800000, guid: 9540ec42bc0302b48865935b06bacd38, type: 3}
+    - {fileID: 2800000, guid: a664afb0e9a47f1489399ddb4d279984, type: 3}
+    - {fileID: 2800000, guid: 17181ff0c601ede408faf986ed041152, type: 3}
+    - {fileID: 2800000, guid: b4097b25bacf110418760e3df2c6e63b, type: 3}
+    - {fileID: 2800000, guid: 16645def4969bcc488699a5910de791c, type: 3}
+    - {fileID: 2800000, guid: fdeedf6d04ecddd449c17a8cc57f4b51, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a664afb0e9a47f1489399ddb4d279984, type: 3}
+  - {fileID: 21300000, guid: 17181ff0c601ede408faf986ed041152, type: 3}
+  - {fileID: 21300000, guid: 218d6f0152b2683468fa5aa2ddc1516f, type: 3}
+  - {fileID: 21300000, guid: 9540ec42bc0302b48865935b06bacd38, type: 3}
+  - {fileID: 21300000, guid: b4097b25bacf110418760e3df2c6e63b, type: 3}
+  - {fileID: 21300000, guid: c63797365beabba498d0000186455da9, type: 3}
+  - {fileID: 21300000, guid: b27e71a6aaff2ab46a0ae89bc4cf9063, type: 3}
+  - {fileID: 21300000, guid: be04d3372abfec94dabc829dee927a57, type: 3}
+  - {fileID: 21300000, guid: a71fa90a922d3b648966998554372020, type: 3}
+  - {fileID: 21300000, guid: fdeedf6d04ecddd449c17a8cc57f4b51, type: 3}
+  - {fileID: 21300000, guid: 16645def4969bcc488699a5910de791c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - HIT
+  - knife
+  - apple-right
+  - b3228634625e46eeb61f3ea837517b54_the-vinyl-knife-hit-wiki-fandom_566-571
+  - KNIFELOGO
+  - knife-icon
+  - apple-left
+  - wood
+  - apple-full
+  - panel_blue
+  - bez-imeni-2-1_BRWLasU
+  m_Tag: UIElement_SpriteAtlas
+  m_IsVariant: 0

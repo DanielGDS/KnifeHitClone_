@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 5f37f0098782b0f4987b4554f9172706
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Etelka Wide Light Pro
+  fontNames:
+  - Etelka Wide Light Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4b82fe3d3a334f74da1f6244ee4c8ad5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

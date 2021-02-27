@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 28e8a130333832b458dc312891341ed1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Etelka Medium Pro
+  fontNames:
+  - Etelka Medium Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c78649e449a675e4f92416750d64e934, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
